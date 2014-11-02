@@ -1,0 +1,19 @@
+.idea
+.DS_Store
+*.swp
+adhoc/
+.xcodeproj/ !*.xcodeproj/project.pbxproj
+*.mode1v3
+*.mode2v3
+.classpath
+.project
+.settings/
+target/
+*.mode1v3
+*.pbxuser
+*.perspective 
+*.perspectivev3
+*.pyc 
+*~.nib/
+build/*
+xcuserdata
