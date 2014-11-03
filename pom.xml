@@ -8,7 +8,7 @@
     <version>0.1.0</version>
     <packaging>jar</packaging>
     
-    <name>Liferay Practicle Code - Hostetler</name>
+    <name>Liferay Practical Code - Hostetler</name>
     <properties>
     	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   	</properties>
